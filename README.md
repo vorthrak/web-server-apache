@@ -1,5 +1,5 @@
 # web-server-apache
-## instalation in server
+## configuration in server
 - ```sudo apt update -y```
 - ```sudo apt install apache2 php libapache2-mod-php -y```
 - ``` sudo systemctl start apache2```
